@@ -11,7 +11,7 @@ Now that you are all set up, it's time to learn a little more about the tools of
 4. What is the purpose of a Pull Request?
     - submitt chganges for review before merging to the main source code. Enable a control point to deliver code confidently.
 5. What is the command you can use to switch between branches? For example you are working on FIRSTNAME-LASTNAME branch and you want to switch back to main.
-    - git switch origin
+    - git switch main
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
     - Update the local copy of your project by downloading the most fresh remote copy of the repo. retrieve new work done by other people.
     - Combine several local repo updates before comitting to the remote repo.
